@@ -2,7 +2,7 @@
 
 
 
-![git algo](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=22272E&style=for-the-badge) &nbsp;
+(https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=22272E&style=for-the-badge) &nbsp;
 ![GitHub repo size](https://img.shields.io/github/repo-size/francodder/hangouts-clone?style=for-the-badge) &nbsp;
 [![Github All Releases](https://img.shields.io/github/downloads/francodder/hangouts-clone/total.svg?style=for-the-badge)]() &nbsp;
 ![git algo](https://img.shields.io/badge/-EN%20DESARROLLO-brigthgreen?style=for-the-badge)
